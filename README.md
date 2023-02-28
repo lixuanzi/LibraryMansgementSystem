@@ -6,6 +6,7 @@ MySql版本：5.7.40
 
 加（vx：lixuanzi0521）帮调试
 
+如果你愿意付一杯可乐钱 我还可以给你说明书(手动狗头)
 
 ## 登录界面预览
 ![image](https://user-images.githubusercontent.com/84713037/212794903-b8f762fc-b1f7-410e-a008-6bef78faac4a.png)
