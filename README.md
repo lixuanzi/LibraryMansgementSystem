@@ -8,6 +8,9 @@ MySql版本：5.7.40
 
 如果你愿意付一杯可乐钱 我还可以给你说明书(手动狗头)
 
+## 演示视频
+【java+Mysql 图书管理系统 (idea) 附源码】 https://www.bilibili.com/video/BV1hx4y1u7af/?share_source=copy_web&vd_source=dd4a926a8cb08f13ae20e4d7331b51ca
+
 ## 登录界面预览
 ![image](https://user-images.githubusercontent.com/84713037/212794903-b8f762fc-b1f7-410e-a008-6bef78faac4a.png)
 
