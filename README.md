@@ -11,6 +11,9 @@ MySql版本：5.7.40
 ## 演示视频
 【java+Mysql 图书管理系统 (idea) 附源码】 https://www.bilibili.com/video/BV1hx4y1u7af/?share_source=copy_web&vd_source=dd4a926a8cb08f13ae20e4d7331b51ca
 
+## 说明书目录
+![image](![](https://img.ixuanzi.com/images/typora/7311c82833371ab38f7069c4b0396e0.png))
+
 ## 登录界面预览
 ![image](https://user-images.githubusercontent.com/84713037/212794903-b8f762fc-b1f7-410e-a008-6bef78faac4a.png)
 
