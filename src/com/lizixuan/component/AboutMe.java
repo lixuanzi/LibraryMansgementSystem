@@ -70,7 +70,7 @@ public class AboutMe extends Box {
         JTextField authorField = new JTextField(15);
 
         authorLabel.setFont(new java.awt.Font("等线", 1, 16));
-        authorField.setText("致敬（vx:lixuanzi0521）");
+        authorField.setText("致敬（vx:lixuanzi99313）");
         authorField.setBorder(null);
         authorField.setOpaque(false);
         authorField.setEditable(false);
