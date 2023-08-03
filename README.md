@@ -4,7 +4,8 @@ Java+Mysql图书管理系统（idea）
 jdk 版本：openjdk version "11.0.12"
 MySql版本：5.7.40
 
-加（vx：lixuanzi0521）帮调试
+加（vx：lixuanzi99313）帮调试
+远程调试说明：https://www.ixuanzi.com/assist/
 
 如果你愿意付一杯可乐钱 我还可以给你说明书(手动狗头)
 
@@ -30,4 +31,4 @@ MySql版本：5.7.40
 ![image](https://user-images.githubusercontent.com/84713037/212805533-520cca86-348d-4db0-adbd-ab4e5e06a71a.png)
 
 
-![57039a61162096f685cd922b72346b8](https://user-images.githubusercontent.com/84713037/212805253-9088376b-5c3e-42e6-b63e-e824cfa9ccc9.jpg)
+
