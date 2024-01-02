@@ -5,9 +5,11 @@ jdk 版本：openjdk version "11.0.12"
 MySql版本：5.7.40
 
 加（vx：lixuanzi99313）帮调试
-远程调试说明：https://www.ixuanzi.com/assist/
-
-如果你愿意付一杯可乐钱 我还可以给你说明书(手动狗头)
+需要调试的话，您可以按照此指引www.ixuanzi.com/assist
+将连接码发送给客服
+===
+环境判定和一些费用细则
+https://www.ixuanzi.com/charge/
 
 ## 演示视频
 【java+Mysql 图书管理系统 (idea) 附源码】 https://www.bilibili.com/video/BV1hx4y1u7af/?share_source=copy_web&vd_source=dd4a926a8cb08f13ae20e4d7331b51ca
