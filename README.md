@@ -5,10 +5,7 @@ jdk 版本：openjdk version "11.0.12"
 MySql版本：5.7.40
 
 加（vx：lixuanzi99313）帮调试
-
-需要调试的话，您可以按照此指引www.ixuanzi.com/assist
-将连接码发送给客服
-===
+需要调试的话可以按照此指引wwww.ixuanzi.com/assist将连接码发送给我
 环境判定和一些费用细则
 https://www.ixuanzi.com/charge/
 
